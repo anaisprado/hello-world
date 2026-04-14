@@ -13,4 +13,4 @@ I am a Biology student in my masters with a 60 ECTS minor in computational Biolo
 I have had about 16ECTS (STA120 STA121, BIO144) with R. So I feel like my skills are quite good, having worked with a few libraries. 
 
 ## My knowledge about python
-'Pthon' is the language I __prefer__ and have a way deeper understanding of. I took Informatics I last semster, which gave me a deep understanding of base python. I'd love however to learn how to work with some new libraries, such as pandas.
+`Pthon` is the language I __prefer__ and have a way deeper understanding of. I took Informatics I last semster, which gave me a deep understanding of base python. I'd love however to learn how to work with some new libraries, such as pandas.
